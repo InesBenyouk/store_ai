@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "43834130301",
+    "firebase_url": "https://vetement-50d99-default-rtdb.firebaseio.com",
+    "project_id": "vetement-50d99",
+    "storage_bucket": "vetement-50d99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43834130301:android:15e22eef4ba191775b1614",
+        "android_client_info": {
+          "package_name": "com.ines.ines_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-VZvE-2UmPj283YeUzp1CoPD7KVwtY_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43834130301:android:3cf6ef959a6e14205b1614",
+        "android_client_info": {
+          "package_name": "com.ines.vetement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-VZvE-2UmPj283YeUzp1CoPD7KVwtY_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
